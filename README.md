@@ -14,7 +14,7 @@
     <br />
     Perform basic arithmetic operations with a sleek, user-friendly interface.
     <br />
-    <a href="https://github.com/duckmaniac/simple-calculator/issues">Report Bug</a>
+    
   </p>
 </div>
 
